@@ -11,6 +11,10 @@
 	"libVersion": "1.7.2",
 	"appid": "wxe62d30fe9d2b0001",
 	"projectname": "smallProgram",
+	"svr": "",
+	"client": "",
+	"qcloudRoot": "",
+	"miniprogramRoot": "",
 	"condition": {
 		"search": {
 			"current": -1,
