@@ -1,0 +1,14 @@
+<text>
+<swiper indicator-dots='true' autoplay='true'>
+<swiper-item>
+  <image src="/images/img_mao.png"></image>
+</swiper-item>
+<swiper-item>
+<image src="/images/img_mao.png"></image>
+</swiper-item>
+<swiper-item>
+<image src="/images/img_mao.png"></image>
+</swiper-item>
+
+</swiper>
+</text>
