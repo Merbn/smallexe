@@ -1,14 +1,41 @@
-<text>
-<swiper indicator-dots='true' autoplay='true'>
-<swiper-item>
-  <image src="/images/img_mao.png"></image>
-</swiper-item>
-<swiper-item>
-<image src="/images/img_mao.png"></image>
-</swiper-item>
-<swiper-item>
-<image src="/images/img_mao.png"></image>
-</swiper-item>
+<view class="post-container">
 
-</swiper>
-</text>
+  <!--第一行  -->
+  <view class="post-author-date">
+    <image class="post-author" src="/images/avatar/1.png"></image>
+    <text class="post-date">2017-12-26 22:28:20</text>
+  </view>
+  <!--第二行  -->
+  <text class="post-title">立志成为未来航线的领导者</text>
+  <image class="post-image" src="/images/post/crab.png"></image>
+  <text class="post-content">钱宝旗下还有一家游戏公司冰穹互娱，布局游戏发行、电子竞技体育、虚拟现实国民级IP打造等，称立志成为未来航线的领导者、最佳娱乐方式的创造者。需要注意的是，今年9月，冰穹互娱全资收购乐视游戏。对于接盘乐视游戏，张小雷曾表示自己一直有着英雄救美的情怀，并将冰穹互娱和乐视游戏喻为灵魂伴侣。
+    </text>
+  <!--第三行  -->
+  <view class="post-like">
+    <image class="post-like-image" src="/images/img_mao.png"></image>
+    <text class="post-likefont">92</text>
+    <image class="post-like-image" src="/images/img_mao.png"></image>
+    <text class="post-like-font">65</text>
+  </view>
+
+<!--第二个item  -->
+
+  <!--第一行  -->
+  <view class="post-author-date">
+    <image class="post-author" src="/images/avatar/1.png"></image>
+    <text class="post-date">2017-12-27 22:28:12</text>
+  </view>
+  <!--第二行  -->
+  <text class="post-title">男子卖了两根“自拍杆” 竟被告上法庭</text>
+  <image class="post-image" src="/images/post/crab.png"></image>
+  <text class="post-content">张先生是梅林一家手机配件店的老板，平常店里如果缺什么货，都到华强北电子市场去拿货，碰巧今年6月份女儿要去旅游，张先生就以拿货的价格，跟华强北一家门店要了四根自拍杆，老婆跟女儿各一根，剩下的两根自拍杆就放店里，想着卖出去。谁能料到，张先生就因此惹上了大麻烦。
+    </text>
+  <!--第三行  -->
+  <view class="post-like">
+    <image class="post-like-image" src="/images/img_mao.png"></image>
+    <text class="post-likefont">92</text>
+    <image class="post-like-image" src="/images/img_mao.png"></image>
+    <text class="post-like-font">65</text>
+  </view>
+
+</view>
