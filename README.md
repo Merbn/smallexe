@@ -5,9 +5,21 @@
 [百度网盘](https://pan.baidu.com/disk/home?#list/vmode=list&path=%2FA_%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B%2F%E5%B0%8F%E7%A8%8B%E5%BA%8F%2F%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%E6%85%95%E8%AF%BE%E7%BD%91%2F%E7%AC%AC%E4%B8%89%E7%AB%A0)
  ```
  $git commit -m "提交注释"
+ 
+ //第一次将本地仓库推送到远程仓库
  $ git push -u origin master
+ 
+ 将当前分支推送到origin主机的对应分支。 
+ 如果当前分支只有一个追踪分支，那么主机名都可以省略。
  $ git push origin master
+ 
  $ git pull --rebase origin master
+ 强制提交
+ $ git push -f origin master 
+ # 从远程仓库下载最新版本
+ git fetch -all 
+ # 将本地设为刚获取的最新的内容
+ git reset --hard origin/master
  ```
  *** 
  [git 更新代码到本地](http://blog.csdn.net/longlc123/article/details/78652569)
